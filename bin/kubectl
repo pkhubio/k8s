@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+
+DIR=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
+
+
+"$DIR/kops-cluster.sh" kubectl "$@"
