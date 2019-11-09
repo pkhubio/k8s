@@ -33,3 +33,12 @@ See the `bin/kops-cluster.sh` script
   * Apply any changes: `bin/kopds-cluster.sh apply`
       
     
+# Services
+
+## Postgres
+
+Sticking with Aurora. 
+
+## Redis
+
+Sticking with AWS Redis. 
