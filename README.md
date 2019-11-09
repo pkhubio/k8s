@@ -1,4 +1,4 @@
-# PKHub dev kops cluster
+# PKHub kops cluster
 
 Follow the steps for setting up a kops cluster from the https://github.com/kubernetes/kops repo.
 
